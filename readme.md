@@ -1,6 +1,6 @@
 Aqui está a documentação dos comandos em formato Markdown para um arquivo `README.md`:
 
-```markdown
+
 # Documentação dos Comandos NPM
 
 Este documento descreve os comandos NPM usados para configurar um projeto com Webpack e Babel.
